@@ -2,3 +2,8 @@ hv
 ios_hv
 *.dSYM
 fixed_hv_headers
+.DS_Store
+Hypervisor
+fixed_framework/
+tools/get_sysreg_offsets
+build/
